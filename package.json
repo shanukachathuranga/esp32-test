@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "ejs": "^3.1.10",
     "esp32-light-controller": "file:",
     "express": "^4.21.2"
   }
